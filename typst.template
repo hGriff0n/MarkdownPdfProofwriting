@@ -38,7 +38,7 @@
   lang: "en",
   region: "US",
   paper: "us-letter",
-  margin: (y: 1in, x: 1in),
+  margin: (top: 1in, bottom: 0.8in, x: 1in),
   cols: 1,
   font: ("Latin Modern"),  // Your font here
   fontsize: 10pt,
